@@ -1,0 +1,15 @@
+final List<String> videoUrls = [
+  'https://sample.vodobox.net/skate_phantom_flex_4k/skate_phantom_flex_4k.m3u8?ref=developerinsider.co',
+  'https://devstreaming-cdn.apple.com/videos/streaming/examples/adv_dv_atmos/main.m3u8?ref=developerinsider.co',
+  'https://content.jwplatform.com/manifests/vM7nH0Kl.m3u8?ref=developerinsider.co',
+  'https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8?ref=developerinsider.co',
+  'https://test-streams.mux.dev/dai-discontinuity-deltatre/manifest.m3u8?ref=developerinsider.co',
+  'https://flipfit-cdn.akamaized.net/flip_hls/661f570aab9d840019942b80-473e0b/video_h1.m3u8?ref=developerinsider.co',
+  'https://flipfit-cdn.akamaized.net/flip_hls/662aae7a42cd740019b91dec-3e114f/video_h1.m3u8?ref=developerinsider.co',
+  'https://flipfit-cdn.akamaized.net/flip_hls/663e5a1542cd740019b97dfa-ccf0e6/video_h1.m3u8?ref=developerinsider.co',
+  'https://flipfit-cdn.akamaized.net/flip_hls/663d1244f22a010019f3ec12-f3c958/video_h1.m3u8?ref=developerinsider.co',
+  'https://flipfit-cdn.akamaized.net/flip_hls/664ce52bd6fcda001911a88c-8f1c4d/video_h1.m3u8?ref=developerinsider.co',
+  'https://flipfit-cdn.akamaized.net/flip_hls/664d87dfe8e47500199ee49e-dbd56b/video_h1.m3u8?ref=developerinsider.co',
+  'https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8',
+  'https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_fmp4/master.m3u8',
+];
